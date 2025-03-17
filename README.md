@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my name is Avi Garram and I am a student at the Daniel Mayer school in Montreuil in BTS SIO 👋
 
 <!--
 **Agarram/Agarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
